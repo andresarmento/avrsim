@@ -1,0 +1,16 @@
+TODO LIST
+====================================================
+1. Implementar as instruções de endereçamento direto
+2. Implementar as instruções de Branch (condicionais)
+3. Implementar as demais instruções logicas/aritmeticas
+4. Implementar a classe de PORT
+5. Fazer o programa servidor TCP
+6. Implementar a configuração de tamanho de memória/eeprom/etc (com arquivo de conf.)
+7. Melhorar as funções de leitura de arquivo Intel Hex.
+8. Colocar suporte para as outras familias na classe PORT (MCUCR x PUD separado no tiny)
+9. Colocar suporte para as outras familias na classe CPU (no decoder por causa dos cycles diferentes, dependendo da instrução)
+10. Implementar a classe HI de forma a retornar texto ou JSON/CSV/XML
+11. Alterar avrsh para operar com a nova forma do HI
+12. Implementar config file
+13. Config file: No caso de leitura do pino com pull-up habilitado retorna 1ou outra coisa?
+14. Config file: No caso de escrita com pull-up habilitado set pin  0, 1, aleatorio ou erro?

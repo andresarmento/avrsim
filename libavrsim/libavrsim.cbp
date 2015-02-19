@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="libavrsim" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/avrsim" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/Release/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-Wall" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="lpthreadGC2" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="TODO.txt" />
+		<Unit filename="include/ALU.h" />
+		<Unit filename="include/AVR.h" />
+		<Unit filename="include/BUS.h" />
+		<Unit filename="include/CFG.h" />
+		<Unit filename="include/CPU.h" />
+		<Unit filename="include/GPR.h" />
+		<Unit filename="include/HI.h" />
+		<Unit filename="include/IO.h" />
+		<Unit filename="include/PMEM.h" />
+		<Unit filename="include/PORT.h" />
+		<Unit filename="include/SREG.h" />
+		<Unit filename="src/ALU.cpp" />
+		<Unit filename="src/AVR.cpp" />
+		<Unit filename="src/CFG.cpp" />
+		<Unit filename="src/CPU.cpp" />
+		<Unit filename="src/HI.cpp" />
+		<Unit filename="src/IO.cpp" />
+		<Unit filename="src/PMEM.cpp" />
+		<Unit filename="src/PORT.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

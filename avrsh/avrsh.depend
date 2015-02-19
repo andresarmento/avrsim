@@ -1,0 +1,210 @@
+# depslib dependency file v1.0
+1413155404 source:c:\users\andre\downloads\projetos\avrsim\avrsim\main.cpp
+	<iostream>
+	<map>
+	<HI.h>
+
+1413949540 c:\users\andre\downloads\projetos\avrsim\libavrsim\include\hi.h
+	<AVR.h>
+	<CFG.h>
+
+1413900867 c:\users\andre\downloads\projetos\avrsim\libavrsim\include\avr.h
+	<PMEM.h>
+	<CPU.h>
+	<BUS.h>
+	<IO.h>
+	<pthread.h>
+	<libxml/tree.h>
+
+1413401065 c:\users\andre\downloads\projetos\avrsim\libavrsim\include\pmem.h
+	<string>
+	<string.h>
+	<iostream>
+	<fstream>
+	<inttypes.h>
+	<BUS.h>
+
+1412551996 c:\users\andre\downloads\projetos\avrsim\libavrsim\include\bus.h
+	<inttypes.h>
+
+1413396595 c:\users\andre\downloads\projetos\avrsim\libavrsim\include\cpu.h
+	<GPR.h>
+	<SREG.h>
+	<ALU.h>
+	<BUS.h>
+	<PMEM.h>
+	<IO.h>
+
+1412890034 c:\users\andre\downloads\projetos\avrsim\libavrsim\include\gpr.h
+	<inttypes.h>
+	<BUS.h>
+
+1411866674 c:\users\andre\downloads\projetos\avrsim\libavrsim\include\sreg.h
+
+1412553348 c:\users\andre\downloads\projetos\avrsim\libavrsim\include\alu.h
+	<GPR.h>
+	<SREG.h>
+	<BUS.h>
+
+1413939368 c:\users\andre\downloads\projetos\avrsim\libavrsim\include\io.h
+	<map>
+	<vector>
+	<string>
+	<inttypes.h>
+	<PORT.h>
+	<CFG.h>
+
+1413946798 c:\users\andre\downloads\projetos\avrsim\libavrsim\include\port.h
+	<IO.h>
+	<inttypes.h>
+
+1413938542 c:\users\andre\downloads\projetos\avrsim\libavrsim\include\cfg.h
+	<map>
+	<vector>
+	<iostream>
+	<string>
+	<string.h>
+	<inttypes.h>
+	<libxml/xpath.h>
+
+1413951420 source:c:\users\andre\downloads\projetos\avrsim\avrsh\main.cpp
+	<iostream>
+	<map>
+	<HI.h>
+
+1413615469 source:c:\users\andre.barbosa\documents\andre_pessoal\codeblocks\projects\avrsim\avrsh\main.cpp
+	<iostream>
+	<map>
+	<HI.h>
+
+1413771710 c:\users\andre.barbosa\documents\andre_pessoal\codeblocks\projects\avrsim\libavrsim\include\hi.h
+	<AVR.h>
+	<CFG.h>
+
+1413900867 c:\users\andre.barbosa\documents\andre_pessoal\codeblocks\projects\avrsim\libavrsim\include\avr.h
+	<PMEM.h>
+	<CPU.h>
+	<BUS.h>
+	<IO.h>
+	<pthread.h>
+	<libxml/tree.h>
+
+1413401065 c:\users\andre.barbosa\documents\andre_pessoal\codeblocks\projects\avrsim\libavrsim\include\pmem.h
+	<string>
+	<string.h>
+	<iostream>
+	<fstream>
+	<inttypes.h>
+	<BUS.h>
+
+1412551996 c:\users\andre.barbosa\documents\andre_pessoal\codeblocks\projects\avrsim\libavrsim\include\bus.h
+	<inttypes.h>
+
+1413396595 c:\users\andre.barbosa\documents\andre_pessoal\codeblocks\projects\avrsim\libavrsim\include\cpu.h
+	<GPR.h>
+	<SREG.h>
+	<ALU.h>
+	<BUS.h>
+	<PMEM.h>
+	<IO.h>
+
+1412890034 c:\users\andre.barbosa\documents\andre_pessoal\codeblocks\projects\avrsim\libavrsim\include\gpr.h
+	<inttypes.h>
+	<BUS.h>
+
+1411866674 c:\users\andre.barbosa\documents\andre_pessoal\codeblocks\projects\avrsim\libavrsim\include\sreg.h
+
+1412553348 c:\users\andre.barbosa\documents\andre_pessoal\codeblocks\projects\avrsim\libavrsim\include\alu.h
+	<GPR.h>
+	<SREG.h>
+	<BUS.h>
+
+1413902600 c:\users\andre.barbosa\documents\andre_pessoal\codeblocks\projects\avrsim\libavrsim\include\io.h
+	<map>
+	<vector>
+	<string>
+	<inttypes.h>
+	<PORT.h>
+	<CFG.h>
+
+1413911114 c:\users\andre.barbosa\documents\andre_pessoal\codeblocks\projects\avrsim\libavrsim\include\port.h
+	<IO.h>
+	<inttypes.h>
+
+1413823539 c:\users\andre.barbosa\documents\andre_pessoal\codeblocks\projects\avrsim\libavrsim\include\cfg.h
+	<map>
+	<vector>
+	<iostream>
+	<string>
+	<string.h>
+	<inttypes.h>
+	<libxml/xpath.h>
+
+1413615469 source:c:\users\administrador\downloads\avrsim\avrsh\main.cpp
+	<iostream>
+	<map>
+	<HI.h>
+
+1413771710 c:\users\administrador\downloads\avrsim\libavrsim\include\hi.h
+	<AVR.h>
+	<CFG.h>
+
+1413900867 c:\users\administrador\downloads\avrsim\libavrsim\include\avr.h
+	<PMEM.h>
+	<CPU.h>
+	<BUS.h>
+	<IO.h>
+	<pthread.h>
+	<libxml/tree.h>
+
+1413401065 c:\users\administrador\downloads\avrsim\libavrsim\include\pmem.h
+	<string>
+	<string.h>
+	<iostream>
+	<fstream>
+	<inttypes.h>
+	<BUS.h>
+
+1412551996 c:\users\administrador\downloads\avrsim\libavrsim\include\bus.h
+	<inttypes.h>
+
+1413396595 c:\users\administrador\downloads\avrsim\libavrsim\include\cpu.h
+	<GPR.h>
+	<SREG.h>
+	<ALU.h>
+	<BUS.h>
+	<PMEM.h>
+	<IO.h>
+
+1412890034 c:\users\administrador\downloads\avrsim\libavrsim\include\gpr.h
+	<inttypes.h>
+	<BUS.h>
+
+1411866674 c:\users\administrador\downloads\avrsim\libavrsim\include\sreg.h
+
+1412553348 c:\users\administrador\downloads\avrsim\libavrsim\include\alu.h
+	<GPR.h>
+	<SREG.h>
+	<BUS.h>
+
+1413939368 c:\users\administrador\downloads\avrsim\libavrsim\include\io.h
+	<map>
+	<vector>
+	<string>
+	<inttypes.h>
+	<PORT.h>
+	<CFG.h>
+
+1413938542 c:\users\administrador\downloads\avrsim\libavrsim\include\port.h
+	<IO.h>
+	<inttypes.h>
+
+1413938542 c:\users\administrador\downloads\avrsim\libavrsim\include\cfg.h
+	<map>
+	<vector>
+	<iostream>
+	<string>
+	<string.h>
+	<inttypes.h>
+	<libxml/xpath.h>
+
